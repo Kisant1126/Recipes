@@ -1,0 +1,78 @@
+.Menu {
+    background-color: rgb(145, 164, 250);
+    padding: 15px;
+    border: 15px solid rgb(92, 96, 151);
+    margin-bottom: 40px;
+    }
+    
+    .text em {
+        font-size: 30px;
+        color: rgb(238, 142, 142);
+        font-weight: 700;
+    }
+    #etiqueta  {
+        background-color: rgb(160, 79, 93);
+        margin-left: 200px;
+        margin-right: 200px;
+        padding: 10px;
+    }
+    .etiqueta { 
+        margin-left: 200px;}
+
+    .guia{
+        outline: none;
+        text-decoration: none;
+        padding: 20px;
+    }
+    .guia:hover {
+        background-color:rgb(118, 133, 202) ;
+    }
+    .guia:link {
+        color:rgb(238, 142, 142);
+    }
+    .guia:visited {
+        color: rgb(238, 142, 142);
+    }
+ 
+    ul{
+        list-style-type: none;
+    }
+    
+    #body {
+        text-align: center;
+        max-width: 600px;
+        margin: 2rem auto;
+    }
+    .Refer{
+        display: inline-block;
+        margin: 0px;
+        position: relative;
+        left:0px;
+        bottom:12px;
+        font-size: 25px;
+        color:rgb(238, 142, 142) ;
+        background-color: rgb(160, 79, 93);
+        padding: 2px;
+    }
+    .icon {
+        margin-right: 15px ;
+        }
+        .footer{
+            position: absolute;
+            bottom: 0;
+            background-color: rgb(145, 164, 250);
+            padding: 1em;
+            text-align: center;
+            width: 1885px;
+            border-top:7px solid rgb(160, 79, 93);
+            margin:0;
+
+        }
+        .icon {
+            display: inline-block;
+        }
+        body{
+            position: relative;
+            padding-bottom: 4em;
+        }
+    
